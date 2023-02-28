@@ -15,4 +15,4 @@ Koda deluje brezhibno. Majhne težave sva imela pri pisanju kode za sprejemljivk
 
 ![Pinout Mikroprocesorja]()
 ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja10-Enkoder-Nucleo-/main/IMG_20230228_085224.jpg)
-![Video delovanja]()
+![Video delovanja](https://github.com/bozoslapy/Vaja10-Enkoder-Nucleo-/blob/main/VID_20230227_073431.mp4)
