@@ -14,5 +14,5 @@ KOMENTAR NA DELOVANJE-->
 Koda deluje brezhibno. Majhne težave sva imela pri pisanju kode za sprejemljivke "obrat" in "kot". 
 
 ![Pinout Mikroprocesorja]()
-![Slika vezave]()
+![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja10-Enkoder-Nucleo-/main/IMG_20230228_085224.jpg)
 ![Video delovanja]()
