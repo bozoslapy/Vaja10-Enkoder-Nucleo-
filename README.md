@@ -15,5 +15,4 @@ Koda deluje brezhibno. Majhne težave sva imela pri pisanju kode za sprejemljivk
 
 ![Pinout Mikroprocesorja]()
 ![Slika vezave]()
-![]()
 ![Video delovanja]()
